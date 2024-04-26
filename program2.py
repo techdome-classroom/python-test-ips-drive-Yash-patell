@@ -22,7 +22,3 @@ def longest_substring(s: str) -> int:
     return max_length
 
 
-  
-
-
-
